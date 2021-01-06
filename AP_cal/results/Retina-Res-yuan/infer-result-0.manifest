@@ -1,0 +1,12 @@
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025034489.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025034489.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025048739.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025048739.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025040583.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025040583.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025044617.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025044617.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025040525.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025040525.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025054819.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025054819.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025044668.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025044668.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025048703.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025048703.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025051781.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025051781.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025058853.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025058853.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025103889.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025103889.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025103921.jpg","inference-loc":"s3://bot-dete/bottle-results/Retina-Res-yuan/Image_20191007025103921.jpg_result.txt"}

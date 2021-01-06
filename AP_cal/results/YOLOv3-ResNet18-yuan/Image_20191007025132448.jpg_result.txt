@@ -1,0 +1,1 @@
+{"erno": "MR.0105", "msg": "Recognition failed", "words_result": {}}

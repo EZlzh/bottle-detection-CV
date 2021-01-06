@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>Image_20191007032244763-b78f86de-4cc9-11eb-bab7-0255ac100c9b_checked.jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>960</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bottle</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>218</xmin>
+            <ymin>137</ymin>
+            <xmax>648</xmax>
+            <ymax>408</ymax>
+        </bndbox>
+    </object>
+</annotation>

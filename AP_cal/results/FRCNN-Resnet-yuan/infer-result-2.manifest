@@ -1,0 +1,12 @@
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025137536.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025137536.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025137483.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025137483.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025153672.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025153672.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025132448.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025132448.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025140569.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025140569.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025150604.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025150604.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025158770.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025158770.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025150638.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025150638.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025153704.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025153704.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025158803.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025158803.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025158737.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025158737.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025159838.jpg","inference-loc":"s3://bot-dete/bottle-results/FRCNN-Resnet-yuan/Image_20191007025159838.jpg_result.txt"}

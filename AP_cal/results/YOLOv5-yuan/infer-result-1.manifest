@@ -1,0 +1,12 @@
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025108990.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025108990.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025109024.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025109024.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025108955.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025108955.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025113157.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025113157.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025110056.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025110056.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025110089.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025110089.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025113123.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025113123.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025124366.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025124366.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025117189.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025117189.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025120225.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025120225.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025124258.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025124258.jpg_result.txt"}
+{"source":"s3://bot-dete/bottle-dataset/yuan-test/Image_20191007025132413.jpg","inference-loc":"s3://bot-dete/bottle-results/YOLOv5-yuan/Image_20191007025132413.jpg_result.txt"}

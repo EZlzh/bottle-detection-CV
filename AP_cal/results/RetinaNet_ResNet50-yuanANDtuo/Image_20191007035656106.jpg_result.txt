@@ -1,0 +1,1 @@
+{"detection_classes": ["bottle"], "detection_boxes": [["73", "356", "383", "916"]], "detection_scores": ["0.9879705309867859"]}
